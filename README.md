@@ -5,6 +5,7 @@ This project focuses on building a Machine Learning classification model to pred
 To predict loan rejection by identifying bad customers based on historical data.
 
 Yes → Loan Rejected (Bad Customer)
+
 No → Loan Approved (Good Customer)
 
 🛠️ Tools & Technologies
@@ -12,4 +13,4 @@ No → Loan Approved (Good Customer)
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
 Modeling Techniques: Logistic Regression, Decision Tree, Random Forest
-Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix
+Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix.
