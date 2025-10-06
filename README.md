@@ -12,5 +12,7 @@ No → Loan Approved (Good Customer)
 
 Programming Language: Python
 Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn 
+
 Modeling Techniques: Logistic Regression, Decision Tree, Random Forest
+
 Evaluation Metrics: Accuracy, Precision, Recall, Confusion Matrix.
